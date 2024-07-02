@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ad_task1_unit_converter</string>
+    <string-array name="units">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+</resources>
